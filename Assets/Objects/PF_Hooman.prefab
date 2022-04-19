@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1907137666948861262}
   m_Layer: 0
-  m_Name: Hooman
+  m_Name: PF_Hooman
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
