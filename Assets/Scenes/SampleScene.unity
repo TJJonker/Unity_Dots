@@ -139,7 +139,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &306402315
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -267,6 +267,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 631111330}
+  - component: {fileID: 631111329}
   m_Layer: 0
   m_Name: Testing
   m_TagString: Untagged
@@ -274,6 +275,21 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!114 &631111329
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 631111328}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 144492aa1eb774c44a1c9dae78a83ad1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Prefab: {fileID: 1907137666948861265, guid: 0c7b9a1af05b5eb4a9440ae923ad181f, type: 3}
+  CountX: 10
+  CountY: 10
 --- !u!4 &631111330
 Transform:
   m_ObjectHideFlags: 0
