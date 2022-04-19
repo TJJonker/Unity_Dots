@@ -1084,7 +1084,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 31c1d714451ae4f46a1636ec39fbeaf4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  RadiansPerSecond: 2
+  RadiansPerSecond: 3
 --- !u!1 &2139207811 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1907137666948861265, guid: 0c7b9a1af05b5eb4a9440ae923ad181f, type: 3}
