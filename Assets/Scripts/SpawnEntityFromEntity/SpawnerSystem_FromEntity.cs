@@ -2,7 +2,7 @@ using Unity.Burst;
 using Unity.Entities;
 
 [UpdateInGroup(typeof(SimulationSystemGroup))]
-public class SpawnerSystem_FromEntity : SystemBase
+public partial class SpawnerSystem_FromEntity : SystemBase
 {
     BeginInitializationEntityCommandBufferSystem _commandBufferSystem;
 
